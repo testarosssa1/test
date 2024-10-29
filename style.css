@@ -23,12 +23,12 @@ header {
 
 header h1 {
     font-size: 2.5rem;
-    color: #ff4500;
+    color: #90c8df;
 }
 
 header h2 {
     font-size: 1.5rem;
-    color: #f0e130;
+    color: #3053f0;
 }
 
 main {
@@ -44,7 +44,7 @@ section {
 }
 
 h3 {
-    color: #ff4500;
+    color: #90c8df;
     margin-bottom: 10px;
 }
 
